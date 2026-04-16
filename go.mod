@@ -1,3 +1,3 @@
-module github.com/ProgrammerZamanNow/go-say-hello/v2
+module github.com/IndraBagus0/go-say-hello
 
-go 1.15
+go 1.26.2
